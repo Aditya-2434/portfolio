@@ -2,7 +2,11 @@
     display: flex;
     justify-content: space-between;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 21px;
+}
+.list-sub-heading{
+    font-size:19px;
+    font-weight: bold;
 }
 .matter{
     font-weight: 100;
