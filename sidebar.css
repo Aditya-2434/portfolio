@@ -1,0 +1,44 @@
+.image{
+    width: 300px;
+}
+.sidebar{
+    position: fixed;
+    top: 8px;
+    left: 8px;
+    box-shadow: 3px 0 7px rgba(0,0,1,0.2) , -3px 0 7px rgba(0,0,1,0.2) ; 
+    padding: 10px 0px 10px 10px;
+    height: 525px;
+    width: 310px;
+    border-radius: 3px;
+}
+.info-item1{
+    font-size: 20px;
+    margin-left: 20px;
+    display: inline-block ;
+}
+.info-item{
+    margin-left: 20px;
+}
+.logo{
+    width: 30px;
+    object-fit: cover;
+}
+.logo1{
+    width: 34px;
+    height: 38px;
+    object-fit: cover;
+}
+.logo2{
+    width: 35px;
+    height: 43px;
+    object-fit: cover;
+}
+.logo3{
+    width: 26px;
+    height: 24px;
+    object-fit: cover;
+    margin-left: 5px;
+}
+.info-item2{
+    margin-left: 23px;
+}

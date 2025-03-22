@@ -1,0 +1,10 @@
+.internships{
+    box-shadow: 3px 0 7px rgba(0,0,1,0.2) , -3px 0 7px rgba(0,0,1,0.2) ;
+    padding: 10px 15px 3px 10px;
+    border-radius: 3px;
+    margin-top: 15px;     
+} 
+.stage{
+    padding-bottom: 10px;
+    padding-right: 30px;       
+} 
